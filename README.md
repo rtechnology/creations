@@ -1,2 +1,2 @@
 # creations
-Create awesome apps
+1st version of awesome app
